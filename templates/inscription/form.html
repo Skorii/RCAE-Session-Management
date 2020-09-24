@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sélection de la Séance</title>
+        {% load static %}
+        <link rel="stylesheet" type="text/css" href="{% static 'inscription/style.css' %}">
+    </head>
+    <body>
+        {% if message %}<p><strong>{{ message }}</strong></p>{% endif %}
+        <div class="main">
+        <h1>Sélection de la Séance</h1>
+        <form action="{% url 'inscription:validation' %}" method="post">
+            {% csrf_token %}
+            <label for="firstname">Prénom* :</label>
+            <input type="text" id="firstname" name="first_name" placeholder="Votre prénom..." required="True">
+            <label for="lname">Nom* :</label>
+            <input type="text" id="lname" name="last_name" placeholder="Votre nom..." required="True">
+            <label for="email">E-mail* : (utile en cas d'annulation)</label>
+            <input type="email" id="email" name="email" placeholder="Votre adresse e-mail" required="True">
+            <label for="rcaeid">Numéro de carte RCAE* :</label>
+            <div class="secnd">
+                <select class="rcaecode" id="rcaeid" name="rcae_code">
+                    <option value="E">E</option>
+                    <option value="EV">EV</option>
+                    <option value="S">S</option>
+                    <option value="P">P</option>
+                    <option value="A">A</option>
+                    <option value="X">X</option>
+                    <option value="C">C</option>
+                    <option value="M">M</option>
+                    <option value="D">D</option>
+                    <option value="R">R</option>
+                    <option value="MA">MA</option>
+                </select>  -
+                <input style="width: 75%; float: right" type="number" id="rcaeid" name="rcae_number" placeholder="Numéros de carte RCAE..." required="True">
+            </div>
+            <hr>
+            <p>Section sélectionnée : <strong>{{ current_section.name }} </strong><span class="change_section">(<a href="{% url 'inscription:sport_selection' %}">Modifier</a>)</span></p>
+            <label for="session">Séance* :</label>
+            <select id="session" name="session">
+                {% for session in sessions %}
+                    <option value="{{ session.id }}">{{ session.date_time }} - {{ session.max_members }} place{{ session.max_members|pluralize }}</option>
+                {% endfor %}
+            </select>
+            {% if current_section.subscription %}
+                <label for="subid">Numéro d'abonement* :</label>
+                <input type="number" id="subid" name="subscription_number" placeholder="Numéro d'abonnement" min="0" max="9999">
+            {% endif %}
+            <input type="submit" value="Valider">
+        </form>
+        </div>
+    </body>
+</html>

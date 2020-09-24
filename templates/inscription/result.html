@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Information</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'inscription/style.css' %}">
+</head>
+<body>
+  <div class="main">
+    <h1>Information</h1>
+    <p><strong>{{ message }}</strong></p>
+
+    <p><a href="{% url 'inscription:sport_selection' %}">Retour à la sélection des sections</a></p>
+  </div>
+</body>
+</html>

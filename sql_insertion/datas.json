@@ -1,0 +1,950 @@
+[
+   {
+      "name": "Aérobic : Aérobic-Step",
+      "code": "AERSTP",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Body Sculpt",
+      "code": "AERBDS",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "12:30",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Cardio-Step",
+      "code": "AERCDS",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "mercredi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Cuisses-Abdos-Fessiers",
+      "code": "AERCAF",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "18:00",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               },
+               {
+                  "weekday": "mardi",
+                  "hour": "12:30",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 3 (G3)",
+                  "max_members": "15"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Latino Caf",
+      "code": "AERLAT",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "jeudi",
+                  "hour": "18:00",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Reejam",
+      "code": "AERREE",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "mercredi",
+                  "hour": "18:00",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Spartan Shadow",
+      "code": "AERSTS",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "jeudi",
+                  "hour": "19:00",
+                  "duration": "1:30",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Step & Renforcement Musculaire",
+      "code": "AERSRP",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "mercredi",
+                  "hour": "12:30",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Stretching",
+      "code": "AERSTR",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-18",
+            "date_end": "2021-06-25",
+            "session": [
+               {
+                  "weekday": "vendredi",
+                  "hour": "11:15",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               },
+               {
+                  "weekday": "vendredi",
+                  "hour": "12:30",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman",
+                  "max_members": "6"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Strong Nation TM",
+      "code": "AERSNT",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "17:45",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Zen & Relax",
+      "code": "AERZEN",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-15",
+            "date_end": "2021-06-29",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Athénée Royal de Fragnée : Gymnase 0 (G0)",
+                  "max_members": "15"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Total Body Control",
+      "code": "AERTBC",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-15",
+            "date_end": "2021-06-29",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "18:00",
+                  "duration": "1:00",
+                  "location": "Athénée Royal de Fragnée : Gymnase 0 (G0)",
+                  "max_members": "15"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aérobic : Zumba",
+      "code": "AERZUM",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-14",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "17:30",
+                  "duration": "1:00",
+                  "location": "Collège Sainte-Véronique, rue Edouard Wacken à 4000 Liège",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "mardi",
+                  "hour": "18:45",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aikido",
+      "code": "AIKIDO",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-02",
+            "date_end": "2021-06-11",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "20:30",
+                  "duration": "1:30",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 3 (G3)",
+                  "max_members": "15"
+               },
+               {
+                  "weekday": "vendredi",
+                  "hour": "20:00",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 3 (G3)",
+                  "max_members": "15"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Aquafitness",
+      "code": "AQUFIT",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2021-06-10",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Piscine des Centres sportifs du Sart-Tilman",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "mercredi",
+                  "hour": "12:30",
+                  "duration": "1:00",
+                  "location": "Piscine des Centres sportifs du Sart-Tilman",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "jeudi",
+                  "hour": "19:30",
+                  "duration": "1:00",
+                  "location": "Piscine des Centres sportifs du Sart-Tilman",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Arts du Cirque",
+      "code": "ARTCIR",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-07",
+            "date_end": "2021-06-30",
+            "session": [
+               {
+                  "weekday": "mercredi",
+                  "hour": "20:00",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Athlétisme",
+      "code": "ATLTSM",
+      "subscription": "0",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-02",
+            "date_end": "2021-05-28",
+            "session": [
+               {
+                  "weekday": "mercredi",
+                  "hour": "18:00",
+                  "duration": "2:00",
+                  "location": "Piste d'athlétisme",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "vendredi",
+                  "hour": "18:00",
+                  "duration": "1:00",
+                  "location": "Hall Omnisports IEP",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Badminton",
+      "code": "BDMNTN",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2020-12-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "20:00",
+                  "duration": "2:30",
+                  "location": "Centre Sportif du Sart-Tilman : Hall IEP",
+                  "max_members": "99"
+               }
+            ]
+         },
+         {
+            "date_start": "2021-02-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "20:00",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Hall IEP",
+                  "max_members": "99"
+               }
+            ]
+         },
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "vendredi",
+                  "hour": "19:00",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Hall IEP",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Basket-Ball",
+      "code": "BSKBLL",
+      "subscription": "0",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2021-04-29",
+            "session": [
+               {
+                  "weekday": "jeudi",
+                  "hour": "19:00",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Hall IEP",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Body Training",
+      "code": "BDTRNG",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "12:00",
+                  "duration": "1:30",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "jeudi",
+                  "hour": "12:30",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               }
+            ]
+         },
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2021-04-30",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:30",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "mercredi",
+                  "hour": "19:30",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               }
+            ]
+         },
+         {
+            "date_start": "2021-05-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:30",
+                  "duration": "1:30",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "mercredi",
+                  "hour": "19:30",
+                  "duration": "1:30",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               }
+            ]
+         },
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2020-12-31",
+            "session": [
+               {
+                  "weekday": "vendredi",
+                  "hour": "18:30",
+                  "duration": "2:30",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               }
+            ]
+         },
+         {
+            "date_start": "2021-01-01",
+            "date_end": "2021-01-31",
+            "session": [
+               {
+                  "weekday": "vendredi",
+                  "hour": "18:30",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               }
+            ]
+         },
+         {
+            "date_start": "2021-02-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "vendredi",
+                  "hour": "18:30",
+                  "duration": "2:30",
+                  "location": "Centre Sportif du Sart-Tilman : Salle de Musculation",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Boxe : Condition Physique & Initiation",
+      "code": "BOXCPI",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-06",
+            "date_end": "2021-05-26",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "19:45",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 1 (G1)",
+                  "max_members": "20"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Boxe : Initiation & Perfectionnement",
+      "code": "BOXIPF",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-06",
+            "date_end": "2021-05-26",
+            "session": [
+               {
+                  "weekday": "mercredi",
+                  "hour": "20:30",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 3 (G3)",
+                  "max_members": "15"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Capoeira",
+      "code": "CAPOEI",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-02",
+            "date_end": "2021-05-25",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "19:00",
+                  "duration": "1:30",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 3 (G3)",
+                  "max_members": "15"
+               }
+            ]
+         },
+         {
+            "date_start": "2020-10-02",
+            "date_end": "2021-04-30",
+            "session": [
+               {
+                  "weekday": "vendredi",
+                  "hour": "18:00",
+                  "duration": "2:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 3 (G3)",
+                  "max_members": "15"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Condition Physique 20-40-60 : Remise en Forme",
+      "code": "CPREF",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2021-06-29",
+            "session": [
+               {
+                  "weekday": "jeudi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 2 (G2)",
+                  "max_members": "35"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Condition Physique 20-40-60 : Volley-Ball",
+      "code": "CPVLBL",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-01",
+            "date_end": "2021-06-29",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "21:00",
+                  "duration": "1:30",
+                  "location": "Centre Sportif du Sart-Tilman : Gymnase 2 (G2)",
+                  "max_members": "35"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Course d'Orientation",
+      "code": "COUORI",
+      "subscription": "0",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-07",
+            "date_end": "2021-05-06",
+            "session": [
+               {
+                  "weekday": "mercredi",
+                  "hour": "18:20",
+                  "duration": "1:40",
+                  "location": "Centre Sportif du Sart-Tilman : Vestiaires 2 & 3",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Danse Orientale : Débutantes",
+      "code": "DANORD",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-12",
+            "date_end": "2021-03-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "18:00",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               }
+            ]
+         },
+         {
+            "date_start": "2021-04-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Danse Orientale : Intermédiaires",
+      "code": "DANORI",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-12",
+            "date_end": "2021-03-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               }
+            ]
+         },
+         {
+            "date_start": "2021-04-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Danse Orientale : Avancées",
+      "code": "DANORA",
+      "subscription": "1",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-10-12",
+            "date_end": "2021-03-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "20:00",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               }
+            ]
+         },
+         {
+            "date_start": "2021-04-01",
+            "date_end": "2021-05-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               },
+               {
+                  "weekday": "lundi",
+                  "hour": "20:00",
+                  "duration": "1:00",
+                  "location": "Salle \"Le CRU\" au Sart-Tilman, à coté du secrétariat du RCAE",
+                  "max_members": "6"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Equitation : Débutants",
+      "code": "EQUDEB",
+      "subscription": "0",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-01",
+            "date_end": "2021-08-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "mercredi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "jeudi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Equitation : Moyens",
+      "code": "EQUMOY",
+      "subscription": "0",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-01",
+            "date_end": "2021-08-31",
+            "session": [
+               {
+                  "weekday": "mardi",
+                  "hour": "19:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "mercredi",
+                  "hour": "20:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "samedi",
+                  "hour": "15:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Equitation : Confirmés",
+      "code": "EQUCON",
+      "subscription": "0",
+      "active": "1",
+      "cycle":[
+         {
+            "date_start": "2020-09-01",
+            "date_end": "2021-08-31",
+            "session": [
+               {
+                  "weekday": "lundi",
+                  "hour": "20:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "mardi",
+                  "hour": "20:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "jeudi",
+                  "hour": "20:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "vendredi",
+                  "hour": "18:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               },
+               {
+                  "weekday": "samedi",
+                  "hour": "17:00",
+                  "duration": "1:00",
+                  "location": "Royal Cercle équestre \"L'Eperon\", rue du Vieux Frênes 21, 4031 Angleur (Boncelles)",
+                  "max_members": "99"
+               }
+            ]
+         }
+      ]
+   }
+]

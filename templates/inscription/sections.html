@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sélection de la section</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'inscription/style.css' %}">
+</head>
+<body>
+  {% if message %}<p><strong>{{ message }}</strong></p>{% endif %}
+  <div class="main">
+    <h1>Sélection de la section</h1>
+	<form action="{% url 'inscription:inscription' %}" method="post">
+      {% csrf_token %}
+
+	  <label for="section">Sport* :</label>
+	  <select id="section" name="section">
+		{% for section in sections %}
+            <option value="{{ section.code }}" onselect="refresh()">{{ section.name }}</option>
+        {% endfor %}
+	  </select>
+
+	  <input type="submit" value="Valider">
+	</form>
+  </div>
+</body>
+</html>
